@@ -1,0 +1,12 @@
+{
+  "id": "d20-override",
+  "title": "D20 Override (Next Roll)",
+  "description": "Adds a Token tools button (left toolbar under Token controls) for GMs to set the next d20 result once, then resets.",
+  "version": "1.0.0",
+  "authors": [ { "name": "MrKOOKE" } ],
+  "compatibility": { "minimum": "10", "verified": "12" },
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "12",
+  "systems": ["dnd5e"],
+  "scripts": ["scripts/main.js"]
+}

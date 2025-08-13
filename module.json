@@ -8,5 +8,7 @@
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "12",
   "systems": ["dnd5e"],
-  "scripts": ["scripts/main.js"]
+  "scripts": ["scripts/main.js"],
+  "manifest": "https://raw.githubusercontent.com/MrKOOKE/d20-override/main/module.json",
+  "download": "https://github.com/MrKOOKE/d20-override/releases/latest/download/d20-override.zip"
 }
